@@ -13,9 +13,9 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <p><i>"Maktub"</i> - It's written</p>
+     <p><i>"Maktub"</i>, It's written</p>
 
-     <p><cite>- Alchemist <cite></p>
+     <p><cite>- The Alchemist <cite></p>
   header_text_feature_image: # assets/img/clouds-daylight.jpg
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
