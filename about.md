@@ -10,7 +10,7 @@ Passionate developer and sometimes designer of internet spaces.
   
 **Education**   
   
-Course                                        | Second Header                             | Grade  
+Course                                        | Institute                                 | Grade  
 --------------------------------------------- | ----------------------------------------- | ------  
 Engineering (Computer Science)  | Lovely Professional University, Jalandhar | 8.5  
 XII (CBSE)                                    | The Greenhills Public School, Wayanad     | 80.4 %  
