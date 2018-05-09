@@ -11,8 +11,6 @@ It's a [jekyll](https://jekyllrb.com/) powered blog with github pages.
 * Fork the repository to your profile.  
 * Rename the repository as `yourusername.github.io`.
 * `_config.yml` file contains basic setup. Edit it as needed.  
-  
-
-Visit `https://yourname.github.io` to see your live page in action.  
+*  Visit `https://yourname.github.io` to see your live page in action.  
   
  [**complete documentation**](https://github.com/rohanchandra/type-theme/)
